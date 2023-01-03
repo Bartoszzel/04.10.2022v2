@@ -1,0 +1,91 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.klasa_1 {
+    border: 1px groove  #c0c0c0;
+    margin: 50px 40px;
+    padding: 15px 10px;
+    text-align: center;
+}
+
+.klasa_2 {
+    border-top-width: 16px;
+    border-right-width: 14px;
+    border-bottom-width: 12px;
+    border-left-width: 18px;
+    
+    border-top-style: double;
+    border-right-style: dotted;
+    border-bottom-style: solid;
+    border-left-style: dashed;
+
+    border-top-color: red;
+    border-right-color: blue;
+    border-bottom-color: olive;
+    border-left-color: navy;
+
+    margin: 20px 30px;
+    padding: 20px;
+}
+
+.klasa_3 {
+    list-style-type: square;
+    list-style-position: outside;
+}
+
+.klasa_4 {
+    list-style-type: disc;
+    list-style-position: outside;
+}
+
+.klasa_5 {
+    list-style-type: circle;
+    list-style-position: outside;
+}
+
+.klasa_6 {
+    border-top-width: 8mm;
+    border-right-width: 4mm;
+    border-bottom-width: 7mm;
+    border-left-width: 6mm;
+    
+    border-top-style: ridge;
+    border-right-style: groove;
+    border-bottom-style: inset;
+    border-left-style: outset;
+
+    border-top-color: green;
+    border-right-color: fuchsia;
+    border-bottom-color: yellow;
+    border-left-color: aqua;
+
+    margin: 150px 30px 130px 30px;
+    padding: 35px;
+}
+
+.klasa_7 {
+    list-style-type: decimal;
+    list-style-position: inside;
+}
+
+.klasa_8 {
+    list-style-type: upper-alpha;
+    list-style-position: inside;
+}
+
+.klasa_9 {
+    list-style-type: upper-roman;
+    list-style-position: inside;
+}
+
+.klasa_10 {
+    list-style-type: lower-alpha;
+    list-style-position: inside;
+}
+
+.klasa_11 {
+    list-style-type: lower-roman;
+    list-style-position: inside;
+}
